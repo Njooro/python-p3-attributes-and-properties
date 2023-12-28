@@ -12,4 +12,4 @@ APPROVED_BREEDS = [
 ]
 
 class Dog:
-    pass
+    
